@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.5.0"
+  },
+  "applications": {
+    "Deverse Summer Program": {
+      "applicationId": "desix7OwZe5C7gUcwzxmXDnHmawq0oVfDGp01cx7",
+      "masterKey": "8UpLivY9TppQNBttw3U1uCh6b4vfyUM8jlBwQO5Z"
+    },
+    "_default": {
+      "link": "Deverse Summer Program"
+    }
+  }
+}
